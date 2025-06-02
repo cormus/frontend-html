@@ -5,7 +5,7 @@ FitText makes font-sizes flexible. Use this <del>plugin</del> script on your flu
 If you have a small site and don't want to attach jQuery, just attach fittext.js and put this just before `</body>` (responsive_headline is an header id).
 ```html
 <script>
-  FitText( document.getElementById("responsive_headline") ); 
+  FitText( document.getElementById("responsive_headline") );   
 </script>
 ```
 ### The Compressor
